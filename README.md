@@ -1,1 +1,2 @@
-<<Christopher van Lent>><< SI 338 Fall 2025 >>
+<<Christopher van Lent>>
+<< SI 338 Fall 2025 >>
